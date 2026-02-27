@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">MI Primera Aplicaccion</string>
     <string name="hello_world">Hello World</string>
-    <string name="Gato">/_/\n ( o o ) = ^ = / \n / | | \n / | | \n -----</string>
+    <string name="Gato">/_/\n ( o o ) = ^ = / \n / | | \n / | | \n -----</string>}
+    <string name= "Carita">" ************ \n*                    * \n*                    *\n*     0     0     * \n*                    * \n*        ^          *
+\n*                    * \n* \\              /  *\n*   \\  ___   /   *
+\n*                    *\n*                    *\n ************"</string>
 </resources>
