@@ -10,9 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=" ************ \n*                    * \n*                    *\n*     0     0     * \n*                    * \n*        ^          *
-\n*                    * \n* \\              /  *\n*   \\          /    *
-\n*     _____      *\n*                    *\n ************"
+        android:text="@string/Carita"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
